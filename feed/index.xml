@@ -12,12 +12,12 @@
 	<atom:link href="https://jubayarhassan.github.io/jubayar2.0/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jubayarhassan.github.io/jubayar2.0</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 May 2021 11:08:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Mar 2022 09:24:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 </channel>
 </rss>
